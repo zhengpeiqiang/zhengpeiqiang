@@ -8,7 +8,7 @@ zhengpeiqiang
 
 ### organization
 
-<a href="https://github.com/zhengpeiqiang"><img alt="" src="https://raw.githubusercontent.com/zhengpeiqiang/LCLCF_origin/master/LCLCF_circle.png" style="width:60px;height:60px;margin: 0 auto;" /></a>
+<a href="https://github.com/zhengpeiqiang"><img alt="" src="https://raw.githubusercontent.com/zhengpeiqiang/LCLCF_origin/master/LCLCF_circle.png" style="width:60px;height:60px;margin: 0 auto;" width="8%" /></a>
 **LCLCF**
 
 ### introduction
